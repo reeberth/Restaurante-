@@ -108,3 +108,17 @@ margin: 20px 0;
   transition: 1s all; 
   cursor: pointer;
 }
+
+. enviar:hover {
+  background:darkorange;
+  transform: scale(1.2);
+}
+
+table {
+  margin: 20px 0 40px;
+}
+thead {
+  background: #555555;
+  color:white;
+  font-weight: bold;
+}
